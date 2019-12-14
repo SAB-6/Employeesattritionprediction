@@ -1,7 +1,7 @@
 # Employeesattritionprediction
 Predicting Employees Attrition(Python)
 The project addresses the followings:
-1. Exploration data analysis
+1. Exploratory data analysis
 2. Model development, prediction and model evaluation
 3. Retention strategies
 4. Conclusion
