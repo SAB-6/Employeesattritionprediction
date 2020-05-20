@@ -1,4 +1,4 @@
-# Employeesattritionprediction
+#Prediction of Employee Turnover
 Predicting Employees Attrition(Python)
 The project addresses the followings:
 1. Exploratory data analysis
