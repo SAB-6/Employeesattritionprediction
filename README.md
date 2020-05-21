@@ -1,4 +1,4 @@
-# OVerview
+# Overview
 The project presents a machine learning approach to predict employee attrition using logistic regression,
 random forest and gradient boosting.
 The project addresses the followings:
@@ -36,7 +36,7 @@ Furthermore, the probabilities for each employee staying or leaving were present
 - Thanks to <a href="https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset">Kaggle</a> for providing free access to the dataset
 
 # Associated post
- For more detail information about the model outcome <a href="https://medium.com/@shereef.bankole_13733/prediction-employee-turnover-a-machine-learning-approach-cdce7ad57890">check this medium story</a>
+ For more information about the model outcomes <a href="https://medium.com/@shereef.bankole_13733/prediction-employee-turnover-a-machine-learning-approach-cdce7ad57890">check this medium story</a>
 
 # References
 1. John, S., 2002. Job-to-job turnover and job-to-non-employment movement. A case study investigation. Personnel Review, 31(6), pp.710–721.
