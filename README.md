@@ -17,13 +17,11 @@ It contains four files
 - Python
 
 # Dependencies
-ipython-genutils==0.2.0
-Markdown==3.1.1
-matplotlib==3.1.1
-pandas==0.25.1
-scikit-learn==0.21.3
-scipy==1.3.1
-seaborn==0.9.0
+- Markdown==3.1.1
+- matplotlib==3.1.1
+- pandas==0.25.1
+- scikit-learn==0.21.3
+- seaborn==0.9.0
 
 # Summary
 Employee turnover remains a key challenge in HR analytics. The cost of replacing a highly skilled professional in terms of searching for a replacement, interviewing, and training the replacement is higher than working around retaining them. Here a machine learning model using logistic regression, random forest classifier as well as gradient boosting were used to predict employees’ turnover. The top 5 predictive features derived from the model are:
@@ -44,5 +42,5 @@ Furthermore, the probabilities for each employee staying or leaving were present
 1. John, S., 2002. Job-to-job turnover and job-to-non-employment movement. A case study investigation. Personnel Review, 31(6), pp.710–721.
 2. Ongori, H. (2007), A review of the literature on employee turnover. African Journal of Business Management, 1(3), 49–54.
 3. <a href="https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html">Handling sampling imbalance</a>
-4. <a href="https://imbalanced-learn.readthedocs.io/en/stable/over_sampling.html">synthetic minority oversampling technique (smote)</a>
-5. <a href="https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c"Beyond accuracy, precision and recall></a>
+4. <a href="https://imbalanced-learn.readthedocs.io/en/stable/over_sampling.html">Synthetic minority oversampling technique (smote)</a>
+5. <a href="https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c">Beyond accuracy, precision and recall></a>
