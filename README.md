@@ -42,5 +42,5 @@ Furthermore, the probabilities for each employee staying or leaving were present
 1. John, S., 2002. Job-to-job turnover and job-to-non-employment movement. A case study investigation. Personnel Review, 31(6), pp.710–721.
 2. Ongori, H. (2007), A review of the literature on employee turnover. African Journal of Business Management, 1(3), 49–54.
 3. <a href="https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html">Handling sampling imbalance</a>
-4. <a href="https://imbalanced-learn.readthedocs.io/en/stable/over_sampling.html">Synthetic minority oversampling technique (smote)</a>
+4. <a href="https://imbalanced-learn.readthedocs.io/en/stable/over_sampling.html">Synthetic minority oversampling technique (smote)></a>
 5. <a href="https://towardsdatascience.com/beyond-accuracy-precision-and-recall-3da06bea9f6c">Beyond accuracy, precision and recall></a>
