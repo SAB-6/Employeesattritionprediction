@@ -1,7 +1,7 @@
 # Prediction of Employee Turnover: a machine learning approach
 ## Overview
 
-It is not uncommon to see employees transitioning from one company to the other; while some have career transition into a new field, other move jobs within a similar field. Sometimes one wonders what factors are responsible for employees’ turnover. Can it be due to?
+It is not uncommon to see employees transitioning from one company to the other; while some have career transition into a new field, others move jobs within a similar field. Sometimes one wonders what factors are responsible for employees’ turnover. Can it be due to?
 
 1. Economic benefit
 2. Job dissatisfaction
