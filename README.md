@@ -1,6 +1,17 @@
-# Overview
-The project presents a machine learning approach to predict employee attrition using logistic regression,
-random forest and gradient boosting.
+# Prediction of Employee Turnover: a machine learning approach
+## Overview
+
+It is not uncommon to see employees transitioning from one company to the other; while some have career transition into a new field, other move jobs within a similar field. Sometimes one wonders what factors are responsible for employees’ turnover. Can it be due to?
+
+1. Economic benefit
+2. Job dissatisfaction
+3. Distance from workplace
+4. Regular traveling
+5. Total number of years worked
+6. Overtime
+
+The project here presents insights behind emloyees turn over based on exploration analysis and machine learning approach to predict a employees that are likely leave. The model employed include: logistic regression, random forest and gradient boosting.
+
 The project addresses the followings:
 1. Exploratory data analysis
 2. Model development, prediction and model evaluation
@@ -13,32 +24,33 @@ It contains four files
 3. Predicting Employees Attrition.pptx: Power point presentation
 4. Classification_report.txt : classification report from the best model (i.e with the highest precision)
 
-# Programming language
+## Programming language
 - Python
 
-# Dependencies
+## Dependencies
 - Markdown==3.1.1
 - matplotlib==3.1.1
 - pandas==0.25.1
 - scikit-learn==0.21.3
 - seaborn==0.9.0
 
-# Summary
+## Summary
 Employee turnover remains a key challenge in HR analytics. The cost of replacing a highly skilled professional in terms of searching for a replacement, interviewing, and training the replacement is higher than working around retaining them. Here a machine learning model using logistic regression, random forest classifier as well as gradient boosting were used to predict employees’ turnover. The top 5 predictive features derived from the model are:
 1. Overtime
 2. Stock option level
 3. Total working years
 4. Job satisfaction
 5. Job involvement
+
 Furthermore, the probabilities for each employee staying or leaving were presented and it is a key deliverable that can inform devising a retention scheme for the employees that are likely to turn over.
 
-# Acknowledgments
+## Acknowledgments
 - Thanks to <a href="https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset">Kaggle</a> for providing free access to the dataset
 
-# Associated post
- For more information about the model outcomes <a href="https://medium.com/@shereef.bankole_13733/prediction-employee-turnover-a-machine-learning-approach-cdce7ad57890">check this medium story</a>
+## Associated post
+ For more information about the model outcomes <a href="https://medium.com/@shereef.bankole_13733/prediction-employee-turnover-a-machine-learning-approach-cdce7ad57890">check this medium story</a> while insights from the exploratory data analsis can be found <a href="https://medium.com/@shereef.bankole_13733/few-reasons-behind-employees-turnover-evidence-from-exploratory-data-analysis-3e058bacd9b8">here</a>
 
-# References
+## References
 1. John, S., 2002. Job-to-job turnover and job-to-non-employment movement. A case study investigation. Personnel Review, 31(6), pp.710–721.
 2. Ongori, H. (2007), A review of the literature on employee turnover. African Journal of Business Management, 1(3), 49–54.
 3. <a href="https://www.kdnuggets.com/2017/06/7-techniques-handle-imbalanced-data.html">Handling sampling imbalance</a>
