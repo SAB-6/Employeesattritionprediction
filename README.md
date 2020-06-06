@@ -1,24 +1,11 @@
 # Prediction of Employee Turnover: a machine learning approach
 ## Overview
 
-It is not uncommon to see employees transitioning from one company to the other; while some have career transition into a new field, others move jobs within a similar field. Sometimes one wonders what factors are responsible for employees’ turnover. Can it be due to?
+A common problem in human resources analytics is devising a means to retain the high performing employees as losing them has a negative effect on the company performance as well as their growth. Apart from the lower productivity from a replacement, the newer employee needs to familiarise themselves with the company operations, the process involved in searching for a new employee, interviewing and training (both formal and informal) the newly employed person makes employees’ turnover undesirable. The cost of replacing an employee can vary based on the employee’s skill level; however, the cost is usually very high for a highly skilled professional in comparison to an entry-level job. This project presents insights on reasons behind emloyees turnover as well as predictive  models on  employee turnover. The model employed include: logistic regression, random forest and gradient boosting.
 
-1. Economic benefit
-2. Job dissatisfaction
-3. Distance from workplace
-4. Regular traveling
-5. Total number of years worked
-6. Overtime
+## Files
 
-The project here presents insights behind emloyees turn over based on exploration analysis and machine learning approach to predict a employees that are likely leave. The model employed include: logistic regression, random forest and gradient boosting.
-
-The project addresses the followings:
-1. Exploratory data analysis
-2. Model development, prediction and model evaluation
-3. Retention strategies
-4. Conclusion
-
-It contains four files
+This repo contain the underlisted files:
 1. Employee_Attrition_HR_Analytics.ipynb : Contains scripts on the the exploration analysis, testing 3 models and makes prediction
 2. Employee_Attrition_HR_Analytics_Model.ipynb: presents a clean model that automate the process in the script above
 3. Predicting Employees Attrition.pptx: Power point presentation
