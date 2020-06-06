@@ -5,7 +5,7 @@ A common problem in human resources analytics is devising a means to retain the 
 
 ## Files
 
-This repo contain the underlisted files:
+This repo contains the underlisted files:
 1. Employee_Attrition_HR_Analytics.ipynb : Contains scripts on the the exploration analysis, testing 3 models and makes prediction
 2. Employee_Attrition_HR_Analytics_Model.ipynb: presents a clean model that automate the process in the script above
 3. Predicting Employees Attrition.pptx: Power point presentation
